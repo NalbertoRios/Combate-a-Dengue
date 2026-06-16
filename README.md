@@ -1,7 +1,7 @@
 # 🦟 Combate à Dengue por Meio da Educação Digital
 
 <p align="center">
-  <img src="imagens/Icon.jpeg" width="200">
+  <img src="imagens/Icon.jpeg" width="180">
 </p>
 
 ## 📖 Descrição
@@ -32,37 +32,44 @@ O aplicativo tem como objetivo auxiliar a população da cidade de Osasco/SP na 
 ## 📱 Telas do Aplicativo
 
 ### Tela Inicial
-![Tela Inicial](imagens/TelaInicial.png)
+<img src="imagens/TelaInicial.png" width="280">
 
 ### Menu Principal
-![Menu Principal](imagens/TelaMenu.jpeg)
+<img src="imagens/TelaMenu.jpeg" width="280">
 
 ### Mapa de Reportes
-![Mapa de Reportes](imagens/MapaRisco.jpeg)
+<img src="imagens/MapaRisco.jpeg" width="280">
 
 ### Conteúdo Educativo
-![Conteúdo Educativo](imagens/TelaInformacoes.png)
+<img src="imagens/TelaInformacoes.png" width="280">
 
 ---
 
 ## 🔧 Desenvolvimento no Thunkable
 
 ### Estrutura do Aplicativo
-![Thunkable 1](thunkable/Thunkable1.jpeg)
-![Thunkable 2](thunkable/Thunkable2.jpeg)
-![Thunkable 3](thunkable/Thunkable3.jpeg)
-![Thunkable 4](thunkable/Thunkable4.jpeg)
-![Thunkable 5](thunkable/Thunkable5.jpeg)
-![Thunkable 6](thunkable/Thunkable6.jpeg)
+<p align="left">
+  <img src="thunkable/Thunkable1.jpeg" width="280" style="margin-right: 10px;">
+  <img src="thunkable/Thunkable2.jpeg" width="280" style="margin-right: 10px;">
+  <img src="thunkable/Thunkable3.jpeg" width="280">
+</p>
+<p align="left">
+  <img src="thunkable/Thunkable4.jpeg" width="280" style="margin-right: 10px;">
+  <img src="thunkable/Thunkable5.jpeg" width="280" style="margin-right: 10px;">
+  <img src="thunkable/Thunkable6.jpeg" width="280">
+</p>
 
 ---
 
 ## 🧩 Blocos Lógicos
 
-![Bloco 1](blocos-logicos/Captura%20de%20tela%202026-06-14%20162655.png)
-![Bloco 2](blocos-logicos/Captura%20de%20tela%202026-06-14%20163119.png)
-![Bloco 3](blocos-logicos/Captura%20de%20tela%202026-06-14%20163530.png)
-![Bloco 4](blocos-logicos/Captura%20de%20tela%202026-06-14%20165539.png)
+<img src="blocos-logicos/Captura de tela 2026-06-14 162655.png" width="600">
+<br><br>
+<img src="blocos-logicos/Captura de tela 2026-06-14 163119.png" width="600">
+<br><br>
+<img src="blocos-logicos/Captura de tela 2026-06-14 163530.png" width="600">
+<br><br>
+<img src="blocos-logicos/Captura de tela 2026-06-14 165539.png" width="600">
 
 ---
 
@@ -70,20 +77,20 @@ O aplicativo tem como objetivo auxiliar a população da cidade de Osasco/SP na 
 
 O aplicativo utiliza o Google Sheets para armazenamento dos dados enviados pelos usuários.
 
-![Banco de Dados](banco-dados/WhatsApp%20Image%202026-06-15%20at%2020.28.24.jpeg)
+<img src="banco-dados/WhatsApp Image 2026-06-15 at 20.28.24.jpeg" width="650">
 
 ---
 
 ## 📸 Aplicativo em Uso
 
 ### Cadastro de Reportes
-![Reporte](uso-do-app/Reportes.jpeg)
+<img src="uso-do-app/Reportes.jpeg" width="280">
 
 ### Visualização no Mapa
-![Mapa](uso-do-app/MapaRisco.jpeg)
+<img src="uso-do-app/MapaRisco.jpeg" width="280">
 
 ### Conteúdo Educativo
-![Conteúdo Educativo](uso-do-app/VideoEducativo.jpeg)
+<img src="uso-do-app/VideoEducativo.jpeg" width="280">
 
 ---
 
